@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: gray;
 }
 
 ul li {
@@ -8,6 +8,7 @@ ul li {
 }
 
 .complete{
-    color: red;
+    color: green;
     text-decoration: line-through;
+    font-size: 1rem;
 }
