@@ -1,14 +1,14 @@
 body {
-    background-color: lavender;
+    background-color: orangered;
 }
 
 ul li {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: teal;
 }
 
 .complete{
     color: green;
     text-decoration: line-through;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
